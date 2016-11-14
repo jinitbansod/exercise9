@@ -1,0 +1,29 @@
+@CHARSET "ISO-8859-1";
+
+
+div.chess{
+	width: 690px;
+    height: 690px;
+    margin: 20px;
+    border: 25px solid black;
+}
+
+
+
+div.black{
+	float:left;
+    width: 80px;
+    height: 80px;
+    background-color: grey;
+    display: table-cell;
+    vertical-align:middle;
+}
+
+div.white{
+	float:left;    
+    width: 80px;
+    height: 80px;
+    background-color: white;
+    display: table-cell;
+    vertical-align:middle;
+}
