@@ -1,0 +1,25 @@
+@CHARSET "ISO-8859-1";
+
+div#body{
+	border:solid #bdb4b4 1px;
+	width:50%;
+	background-color:#e7e1e1;
+	margin-top:100px;
+}
+
+div#ol{
+	font-family:Arial;
+	float:left;
+}
+
+div#ol{
+	margin-right:90px;
+	float:right;
+}
+
+h1#hd{
+	background-color:#ebf5fb;
+}
+h2{
+	padding-top:50px;
+}
