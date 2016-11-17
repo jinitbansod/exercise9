@@ -1,0 +1,124 @@
+@CHARSET "ISO-8859-1";
+
+form#contact-form{
+	/* margin-top:50px; */
+	margin-bottom:50px;
+	background-color: #ebf5fb ;
+	
+	width:700px;
+	margin-left:250px;
+	
+}
+
+div#box1{
+	margin-bottom:50px;
+}
+
+h1#heading{
+	
+	padding-top:10px;
+	padding-bottom:20px;
+	text-align:center;
+	background-color:lightblue;
+}
+
+div#submit{
+	margin-left:110px;
+	
+}
+
+div#box{
+	margin-top:10px;
+	margin-left:60px;
+}
+
+div#user_detail{
+	margin-top:50px;
+	margin-left:30px;
+	margin-bottom:50px;
+}
+
+
+h3#heading{
+
+	margin-left:30px;
+	margin-bottom:30px;
+}
+
+
+
+input#name{
+	
+}
+input#email{
+	padding-top:5px;
+	margin-top:5px;
+}
+input#pwd{
+	margin-top:5px;
+	margin-bottom:55px;
+	padding-bottom:5px;
+	
+	
+}
+
+
+input#angry{
+	margin-left:15px;
+	margin-top:15px;
+}
+
+input#sad{
+	margin-left:15px;
+}
+
+input#happy{
+	margin-left:15px;
+}
+
+input#ambivalent{
+	margin-left:15px;
+}
+
+body#body{
+	
+	
+}
+
+
+button#submit{
+	width:150px;
+	margin-top:50px;
+	margin-left:260px;
+	margin-bottom:50px;
+}
+
+input#vdisat{
+	padding-bottom:120px;
+	margin-bottom:50px;
+}
+
+input#vsat{
+	
+		margin-left:15px;
+}
+
+input#sat{
+	
+		margin-left:15px;
+}
+
+input#dcare{
+	
+		margin-left:15px;
+}
+
+input#disat{
+	
+		margin-left:15px;
+}
+
+input#vdisat{
+	
+		margin-left:15px;
+}
