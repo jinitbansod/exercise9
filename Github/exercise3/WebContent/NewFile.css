@@ -1,0 +1,99 @@
+@CHARSET "ISO-8859-1";
+
+body {
+  background: #fff;
+  margin-left:250px;
+}
+
+ div.image{
+	position: relative;
+    background: url(huntington.jpg);
+}
+p#css{
+	margin-left:250px;
+	padding-top:50px;
+	font-size:35px;	
+	color:white;
+ }
+ 
+p#beauty{
+	margin-left:250px;
+	font-size:20px;
+ 	color:white;
+ 	padding-bottom:50px;
+ 	
+ }
+  
+section#zen-intro{
+     padding-left:65px;
+	 padding-top:50px;
+ 	
+ } 
+ 
+ p{
+        font-size:15px;
+		color: 	#7d927d;
+ }
+  
+ h3{ 
+ 		color: 	#336600;
+ 		} 
+ 		
+ div#design-selection{
+ 	/* width:33%;	 */
+  background-color:#e8eee8;
+ 
+    }		
+ 
+ 
+ a{
+ color: #2E8B57;
+ }
+ 
+ div#section2{
+  margin-right:5px; 
+ 
+/*   width:66.66%;  */
+ padding-left:65px;
+ position: relative;
+ background: url(bamboo.png);
+ background-color:#cfe5cf;
+ /* background-color:#cfe5cf; */
+ }
+ 
+ 
+  div#image2{
+ }
+ 
+ div#zen-resources{
+ 		/*  width:32.8%; */
+		/* margin-right:5px; */
+		/* position: relative;*/
+		margin-left:-5px;
+		margin-right:-10%;
+		background: url(bamboo.png); 
+		background-color:#afc4af;
+		
+ }
+ 
+   
+    div#section3a{
+    width:110%;
+    padding-top:300px;
+    padding-bottom:300px;
+  	background-color:#e8eee8;
+ 
+ }
+ 
+ 
+ 
+ div#footer{
+	position: relative;
+    background: url(huntington.jpg);
+    padding-top:50px;
+    pading-left:100px;
+    padding-bottom:50px;
+    color:white;
+   
+    
+    }
