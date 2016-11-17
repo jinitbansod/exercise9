@@ -1,0 +1,31 @@
+@CHARSET "ISO-8859-1";
+
+p#tagline{
+	
+	border-radius:13px;
+	padding-left:15px;
+	padding-top:5px;
+	padding-bottom:5px;
+	border:solid;
+	border-width:1px;
+	border-color:black;
+	background-color:#E8F8F5;
+}
+
+h2{
+	border-radius:23px;
+	padding-left:15px;
+	padding-top:5px;
+	padding-bottom:5px;
+	border:solid;
+	border-width:1px;
+	border-color:black;
+	background-color:#E8F8F5;
+}
+
+p.date{
+	background:linear-gradient(#DAF7A6,#E8F8F5);
+	padding-top: 15px;
+	padding-bottom: 15px;
+	padding-left:50px;
+}
